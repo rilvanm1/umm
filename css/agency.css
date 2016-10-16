@@ -203,7 +203,7 @@ fieldset[disabled] .btn-xl.active {
   color: white;
   background-color: #fec503;
 }
-@media (min-width: 768px) {
+@media (min-width: 900px) {
   .navbar-custom {
     background-color: transparent;
     padding: 25px 0;
